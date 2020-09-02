@@ -1,7 +1,7 @@
 ### What are you gonna find here?
 
 - The exercises I did at the back-end development program I attended. -Java & Spring-
-- The exercises of the front-end development program, of the same academy, I did on my own. -HTML5, CSS, JavaScript, TypeScript-
+- The exercises of the front-end development program, of the same academy, I did on my own. -HTML5, CSS, JavaScript, TypeScript/ Angular-
 - REST API done with Java & Spring
 - OOP with Java, JavaScript, and Python
 - Data structures
