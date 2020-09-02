@@ -1,4 +1,10 @@
-### Hi there 👋
+### What are you gonna find here?
+
+- The exercises I did at the Java back-end development program I attended
+- The exercises of the front-end development program, of the same academy, I did in my own 
+- Work in progress
+
+
 
 <!--
 **cucabel/cucabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
