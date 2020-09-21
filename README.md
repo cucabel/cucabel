@@ -9,7 +9,7 @@
 
 Currently, developing apps with Python, and learning node.js (MERN)
 
-Pending, TDD and Microservicies
+To do, TDD and Microservicies
 
 
 <!--
