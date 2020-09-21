@@ -7,9 +7,9 @@
 - Data structures
 - JWT
 
-Currently, developing apps with Python, and learning node.js (MERN)
+In Progress, developing apps with Python, and learning node.js (MERN)
 
-To do, TDD and Microservicies
+To Do, TDD and Microservicies
 
 
 <!--
