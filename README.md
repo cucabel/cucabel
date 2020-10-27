@@ -7,10 +7,6 @@
 - Data structures
 - JWT
 
-In Progress, developing apps with Python, and learning node.js (MERN)
-
-To Do, TDD and Microservicies
-
 
 <!--
 **cucabel/cucabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
