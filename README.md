@@ -1,9 +1,7 @@
 ### What are you gonna find here?
 
-- The exercises I did at the back-end development program I attended. -Java & Spring-
+- Full-stack applications done with the MERN stack
 - REST API done with Java & Spring
-- OOP with Java, JavaScript, and Python
-- Data structures
 - JWT
 
 
