@@ -1,6 +1,8 @@
 ### What are you gonna find here?
 
 - Full-stack applications done with the MERN stack | polishing the Ironhack's repos
+  https://cucabel.github.io/The-magic-potion/
+  https://coldsurface.herokuapp.com/
 - REST API done with Java & Spring
 - JWT
 
