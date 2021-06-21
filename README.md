@@ -1,8 +1,9 @@
 ### What are you gonna find here?
 
+* There are 10 repositories, in total, done with Java, and at their description, I specify what is remarcable at each of them.
+
 - Full-stack applications done with the MERN stack
-- REST API done with Java & Spring
-- Algorithms-DataStructures
+- REST API's done with Java & Spring
 - Junit & Mockitos
 - Threads
 - JWT
