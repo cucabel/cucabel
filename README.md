@@ -1,8 +1,12 @@
 ### What are you gonna find here?
 
-- Full-stack applications done with MERN stack | polishing the Ironhack's repos
+- Full-stack applications done with the MERN stack
 - REST API done with Java & Spring
+- Algorithms-DataStructures
+- Junit & Mockitos
+- Threads
 - JWT
+
 
 
 <!--
