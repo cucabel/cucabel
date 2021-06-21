@@ -3,7 +3,7 @@
 
 - Full-stack applications done with the MERN stack
 - REST API's done with Java & Spring
-- Junit & Mockitos
+- JUnit & Mockitos
 - Threads
 - JWT
 
