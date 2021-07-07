@@ -1,4 +1,3 @@
-### There are 10 repositories, in total, done with Java, and at their description, I specify what is remarcable at each of them.                                                       
 ### What are you gonna find here?
 
 - Full-stack applications done with the MERN stack
