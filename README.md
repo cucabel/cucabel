@@ -1,11 +1,8 @@
 ### What are you gonna find here?
 
-- Full-stack applications done with the MERN stack
-- REST API's done with Java & Spring
-- JUnit & Mockitos
-- Threads
-- JWT
-
+- Ironhack web development bootcamp repositories - MERN stack
+- Pre Ironhack bootcamp repositories - Java, Spring and MySQL (the code I did, when I first learnt to code, not how I code now)
+- Algorithms-DataStructures - Java
 
 
 <!--
