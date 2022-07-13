@@ -1,7 +1,7 @@
 ### What are you gonna find here?
 
 - Ironhack web development bootcamp repositories - MERN stack
-- Pre-Ironhack-bootcamp repositories - Java | Spring | MySQL (the code I did, when I first learnt to code, not how I code now)
+- Pre-Ironhack-bootcamp repositories - Java | Spring | MySQL
 - Algorithms-DataStructures - Java
 
 
