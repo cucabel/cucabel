@@ -4,6 +4,8 @@
 - Back-end development program - Java | Spring Boot | Spring JPA | Spring Data | Spring Cache | MySQL
 - Algorithms-DataStructures - Java
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,cs,mongodb,express,react,nodejs,js,html,bootstrap,css)](https://skillicons.dev)
+
 
 <!--
 **cucabel/cucabel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
