@@ -1,7 +1,7 @@
 ### What are you gonna find here?
 
-- Ironhack web development bootcamp repositories - MERN stack
-- Back-end development program - Java | Spring Boot | Spring JPA | Spring Data | Spring Cache | MySQL
+- MERN stack
+- Java | Spring Boot | Spring JPA | Spring Data | Spring Cache | MySQL
 - Algorithms-DataStructures - Java
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,py,cs,mongodb,express,react,nodejs,js,html,bootstrap,css)](https://skillicons.dev)
